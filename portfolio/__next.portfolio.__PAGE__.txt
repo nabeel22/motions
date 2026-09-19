@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[1831,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"PageHero"]
+3:I[8004,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"default"]
+4:I[1503,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"default"]
+5:I[1831,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"CTA"]
+6:I[6486,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[6486,[],"ViewportBoundary"]
+c:I[6486,[],"MetadataBoundary"]
+d:I[9251,[],"IconMark"]
+f:I[8335,[],""]
+10:I[2147,[],""]
+13:I[1831,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"Shell"]
+:HL["/_next/static/css/f63897aa170d42d2.css","style"]
+a:X
+12:X
+12:C
+0:{"buildId":"q_vgm3ABuJhxAXOy01bMN","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"title":"Ideas Made Visible.","accent":"Possibilities Made Real.","word":"Portfolio"}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L4",null,{"collection":"meta"}],["$","$L5",null,{}]],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Portfolio | Kiani motions"}],["$","meta","1",{"name":"description","content":"Explore graphic design, short-form videos, and Meta ad creative by Kiani motions."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$Ld","4",{}]]}]}]}],null]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":"$12"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f63897aa170d42d2.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L13",null,{"children":["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}],"notFound":[["$","section",null,{"className":"error-page wrap","children":[["$","strong",null,{"children":"404"}],["$","h1",null,{"children":"Oops. A little off the canvas."}],["$","p",null,{"children":"The page you’re looking for doesn’t exist. Let’s get you back to something creative."}],["$","a",null,{"className":"pill","href":"/","children":"Back to Home →"}]]}],[]]}]}]}]}]]}],"isPartial":"$@14","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+8:null
+a:300
+16:true
+a:C
+15:0
+e:"$undefined"
+11:"$undefined"
+14:"$undefined"
+9:"$undefined"

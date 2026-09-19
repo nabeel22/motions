@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[1831,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"Shell"]
+3:I[8335,[],""]
+4:I[2147,[],""]
+5:I[1831,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"PageHero"]
+6:I[8004,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"default"]
+7:I[1503,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"default"]
+8:I[1831,["599","static/chunks/599-cec3f9195ddeb327.js","831","static/chunks/831-3681722d32a7d6f9.js","190","static/chunks/190-63bf23bff8a4680f.js","281","static/chunks/app/portfolio/page-57b85bc0fd8fb8c2.js"],"CTA"]
+9:I[6486,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+d:I[6486,[],"ViewportBoundary"]
+f:I[6486,[],"MetadataBoundary"]
+11:I[5141,[],"default",1]
+:HL["/_next/static/css/f63897aa170d42d2.css","style"]
+c:X
+0:{"P":null,"c":["","portfolio",""],"q":"","i":false,"f":[[["",{"children":["portfolio",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f63897aa170d42d2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"error-page wrap","children":[["$","strong",null,{"children":"404"}],["$","h1",null,{"children":"Oops. A little off the canvas."}],["$","p",null,{"children":"The page you’re looking for doesn’t exist. Let’s get you back to something creative."}],["$","a",null,{"className":"pill","href":"/","children":"Back to Home →"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","$L5",null,{"title":"Ideas Made Visible.","accent":"Possibilities Made Real.","word":"Portfolio"}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L7",null,{"collection":"meta"}],["$","$L8",null,{}]],null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,"$c"]},null,false,null],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$L10"}]}]}],null]}],false]],"m":"$undefined","G":["$11",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"q_vgm3ABuJhxAXOy01bMN"}
+c:C
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[9251,[],"IconMark"]
+b:null
+10:[["$","title","0",{"children":"Portfolio | Kiani motions"}],["$","meta","1",{"name":"description","content":"Explore graphic design, short-form videos, and Meta ad creative by Kiani motions."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L12","4",{}]]
