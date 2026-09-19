@@ -1,0 +1,1 @@
+import Link from '@/app/link';export default function NotFound(){return <section className="error-page wrap"><strong>404</strong><h1>Oops. A little off the canvas.</h1><p>The page you’re looking for doesn’t exist. Let’s get you back to something creative.</p><Link className="pill" href="/">Back to Home →</Link></section>}
